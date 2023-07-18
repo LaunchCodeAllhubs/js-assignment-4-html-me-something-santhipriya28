@@ -1,1 +1,25 @@
-/* Write your CSS here! */
+
+  #mainHeading {
+    color: red;
+}
+
+h2 {
+        
+    margin: 8px;
+    padding: 25px 50px 25px 25px;
+    border: 1px solid red;
+}
+
+#testP{
+   text-align: center; 
+}
+.funParagraph {
+    color : green
+}
+
+
+
+   
+
+     
+      
