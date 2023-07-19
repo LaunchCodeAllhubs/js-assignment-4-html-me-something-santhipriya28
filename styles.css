@@ -2,8 +2,7 @@
     color: red;
 }
 
-h2 {
-        
+body {
     margin: 8px;
     padding: 25px 50px 25px 25px;
     border: 1px solid red;
@@ -11,6 +10,7 @@ h2 {
 
 #testP{
    text-align: center; 
+   color : green;
 }
 .funParagraph {
     color : green;
